@@ -1,1 +1,1 @@
-# liner-search
+# linear-search
